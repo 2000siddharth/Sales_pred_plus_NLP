@@ -1,4 +1,7 @@
-# relatas_assgn
+# Sales Forecast Engine
+The repository makes use of two files:
+1. 'sales_pipeline.csv' - This consists of all sales related data
+2. 'interactions.csv' - This file consists of all interactions between the sales-person and the customer
 
 There are 5 different jupyter notebooks.
 1. EDA + ML - This notebook has the model built only on the numeric features for prediction. It also contains EDA of the entire dataset.
